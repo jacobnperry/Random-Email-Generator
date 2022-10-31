@@ -1,0 +1,12 @@
+{
+  "name": "ext",
+  "version": "1.0.0",
+  "description": "pricing ext",
+  "main": "index.js",
+  "scripts": {
+    "test": "dev"
+  },
+  "author": "Jacob Perry",
+  "license": "ISC"
+  
+}
